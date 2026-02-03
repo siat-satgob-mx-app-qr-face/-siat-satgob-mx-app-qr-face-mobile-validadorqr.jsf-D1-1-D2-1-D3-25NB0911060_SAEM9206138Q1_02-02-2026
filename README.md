@@ -15,7 +15,7 @@
 </head>
 <body>
 <canvas id="628a45ccadbf43ad90da2f5d6ad1920b"></canvas>
-    width: 45vw;
+ 
 
 <script>
 var 
