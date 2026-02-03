@@ -12,8 +12,7 @@
         }
     </style>
 
-</head>
-<body>
+<meta charset="utf-8"><title>Converted document</title></head><body><div><img alt=""
 <canvas id="628a45ccadbf43ad90da2f5d6ad1920b"></canvas>
 <script>
 var 
